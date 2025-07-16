@@ -34,7 +34,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.titre}>📝 Bloc-notes</Text>
+      <Text style={styles.titre}>📝 Haiko-notes</Text>
 
       <TextInput
         style={styles.input}
